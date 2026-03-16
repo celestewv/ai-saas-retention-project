@@ -8,7 +8,7 @@ Data-driven churn segmentation and retention strategy case study using the Telco
 - Early lifecycle churn (0–12 months): **47.7%**
 - Month-to-month churn: **42.7%**
 - Customers without TechSupport churn: **41.6%** vs **15.2%** with TechSupport
-- Estimated impact: reducing churn by 5pp preserves ~**352 customers** and **~$22.8k/month** in revenue (using avg MonthlyCharges)
+- Estimated impact: reducing churn by 5pp preserves 352 customers and $22.8k/month in revenue (using avg MonthlyCharges)
 
 ## Recommendation (Future State / To-Be)
 - Guided onboarding workflow for early lifecycle customers
